@@ -1,0 +1,118 @@
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\HRMS Managment Ayatem.dll.config
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\HRMS Managment Ayatem.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\HRMS Managment Ayatem.pdb
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\csc.exe
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\csc.exe.config
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\csc.rsp
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\csi.exe
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\csi.exe.config
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\csi.rsp
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.AppContext.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Collections.Immutable.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Console.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Globalization.Calendars.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.IO.Compression.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.IO.FileSystem.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Net.Http.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Net.Sockets.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Reflection.Metadata.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.ValueTuple.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Xml.XPath.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\vbc.exe
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\vbc.exe.config
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\vbc.rsp
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\VBCSCompiler.exe
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\VBCSCompiler.exe.config
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\obj\Debug\HRMS Managment Ayatem.csproj.AssemblyReference.cache
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\obj\Debug\HRMS Managment Ayatem.csproj.CoreCompileInputs.cache
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\obj\Debug\HRMS Managment Ayatem.csproj.CopyComplete
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\obj\Debug\HRMS Managment Ayatem.dll
+E:\FinalProject\HRMS Managment Ayatem\HRMS Managment Ayatem\obj\Debug\HRMS Managment Ayatem.pdb
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\HRMS Managment Ayatem.dll.config
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\HRMS Managment Ayatem.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\HRMS Managment Ayatem.pdb
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\csc.exe
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\csc.exe.config
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\csc.rsp
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\csi.exe
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\csi.exe.config
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\csi.rsp
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.AppContext.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Console.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.IO.Compression.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Net.Http.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.ValueTuple.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\vbc.exe
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\vbc.exe.config
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\vbc.rsp
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\VBCSCompiler.exe
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\obj\Debug\HRMS Managment Ayatem.csproj.AssemblyReference.cache
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\obj\Debug\HRMS Managment Ayatem.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\obj\Debug\HRMS Managment Ayatem.csproj.CopyComplete
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\obj\Debug\HRMS Managment Ayatem.dll
+C:\Users\ruchi\Pictures\Chandana\HR System\HRMS Managment Ayatem\HRMS Managment Ayatem\obj\Debug\HRMS Managment Ayatem.pdb
